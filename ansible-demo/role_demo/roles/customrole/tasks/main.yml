@@ -1,0 +1,4 @@
+---
+# tasks file for customrole
+- name: This is My Roles
+  debug: msg='This is My first Role'
